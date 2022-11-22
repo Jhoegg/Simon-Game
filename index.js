@@ -57,9 +57,9 @@ function animatePress(currentColor) {
 
 //determine keypress
 
-$(document).one("keypress", function (event) {
+/*$(document).one("keypress", function (event) {
   nextSequence(event.key);
-});
+});*/
 
 //check answers
 function checkAnswer(currentLevel) {
